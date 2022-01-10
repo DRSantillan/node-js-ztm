@@ -5,5 +5,8 @@
   "repository": "git@github.com:DRSantillan/node-js-ztm.git",
   "author": "Dean <dean@deansantillan.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
 }
